@@ -1,0 +1,120 @@
+{"id": "meeting_request-00", "email": "Hi, could we find 30 minutes next week to go over the Q4 roadmap? I'm free Tuesday or Thursday afternoon.", "intent": "meeting_request"}
+{"id": "meeting_request-01", "email": "Are you available for a quick call tomorrow morning? Want to align on the onboarding changes before the release.", "intent": "meeting_request"}
+{"id": "meeting_request-02", "email": "Let's schedule a demo for our team. Does Friday at 14:00 work for you?", "intent": "meeting_request"}
+{"id": "meeting_request-03", "email": "Can we move our Monday sync to Wednesday? Something came up on my side.", "intent": "meeting_request"}
+{"id": "meeting_request-04", "email": "I'd love to catch up over coffee when you're in Warsaw next month. Let me know your dates.", "intent": "meeting_request"}
+{"id": "meeting_request-05", "email": "Please send me a few time slots for an intro call with our CTO.", "intent": "meeting_request"}
+{"id": "meeting_request-06", "email": "Would you have time this week for a 15 minute chat about the partnership proposal?", "intent": "meeting_request"}
+{"id": "meeting_request-07", "email": "Following the conference, I'd like to book a meeting to discuss a pilot. When are you free?", "intent": "meeting_request"}
+{"id": "meeting_request-08", "email": "Reminder that we should plan the retrospective. Does 10:00 on the 14th suit everyone?", "intent": "meeting_request"}
+{"id": "meeting_request-09", "email": "Can you join a call with the client on Thursday? They want to see the prototype.", "intent": "meeting_request"}
+{"id": "meeting_request-10", "email": "Hey! Free for a lunch meeting sometime next week? There is something I want to run by you.", "intent": "meeting_request"}
+{"id": "meeting_request-11", "email": "We need to reschedule the interview. Are you able to do Wednesday at 16:30 instead?", "intent": "meeting_request"}
+{"id": "meeting_request-12", "email": "Could you share your calendar link? I'd like to set up a review session.", "intent": "meeting_request"}
+{"id": "meeting_request-13", "email": "Is there a good time on Friday to walk through the contract changes together?", "intent": "meeting_request"}
+{"id": "meeting_request-14", "email": "Let's do a kickoff meeting early next week. Morning slots work best for the whole team.", "intent": "meeting_request"}
+{"id": "meeting_request-15", "email": "I'm in town on the 22nd, any chance to meet for an hour at your office?", "intent": "meeting_request"}
+{"id": "meeting_request-16", "email": "Please confirm if the 3 pm call today is still on, I can't find the invite.", "intent": "meeting_request"}
+{"id": "meeting_request-17", "email": "Can we talk this afternoon? It's about the delivery schedule and it's a bit urgent.", "intent": "meeting_request"}
+{"id": "meeting_request-18", "email": "Looking to arrange a training session for our new hires. What dates could you offer?", "intent": "meeting_request"}
+{"id": "meeting_request-19", "email": "We'd like to book a workshop with you in November. Please propose a few possible days.", "intent": "meeting_request"}
+{"id": "invoice_or_payment-00", "email": "Could you please resend invoice #2043? I can't find it in my inbox and accounting needs it today.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-01", "email": "We paid the invoice on Monday by bank transfer. Can you confirm that you received the payment?", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-02", "email": "Our company details changed. Please issue the invoice with the new VAT number.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-03", "email": "I was charged twice for the October subscription. Please check the payments on my account.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-04", "email": "When is the payment for invoice 118 due? The PDF doesn't show the deadline.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-05", "email": "Can I pay by card instead of bank transfer? The transfer keeps getting rejected.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-06", "email": "Please send a proforma invoice so we can arrange the payment internally.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-07", "email": "The amount on the invoice does not match our agreed price. Can you correct it?", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-08", "email": "I need a receipt for my last purchase, it's for an expense report.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-09", "email": "Do you accept payment in installments? The total is a bit high for us this month.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-10", "email": "My payment shows as pending for three days. Is something wrong on your side?", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-11", "email": "Could you add our PO number 77-A to the invoice before sending it?", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-12", "email": "Please update the billing address on future invoices to the one below.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-13", "email": "Reminder: the invoice from September is still unpaid. Please let us know when we can expect it.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-14", "email": "Your bank details on the invoice seem different from last time. Can you confirm they are correct?", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-15", "email": "We need an invoice in EUR instead of PLN for this order, if possible.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-16", "email": "Can you send me a statement of all invoices from this year?", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-17", "email": "The credit note for the returned items has not arrived yet. When will it be issued?", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-18", "email": "I paid with PayPal but the order still shows as unpaid.", "intent": "invoice_or_payment"}
+{"id": "invoice_or_payment-19", "email": "Is VAT included in the price you quoted? I need it for the invoice.", "intent": "invoice_or_payment"}
+{"id": "bug_or_problem-00", "email": "The app crashes every time I open the settings page. I'm on the latest version.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-01", "email": "I can't log in anymore. The reset link says it has expired but I just requested it.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-02", "email": "The export button produces an empty file. This worked fine last week.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-03", "email": "Your website shows a 500 error when I try to submit the form.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-04", "email": "Notifications stopped arriving on my phone after the update.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-05", "email": "The dashboard numbers look wrong, yesterday's sales are showing as zero.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-06", "email": "I received the wrong item. I ordered the blue one and got the black one.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-07", "email": "My order arrived damaged, the box was crushed and the screen is cracked.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-08", "email": "The video won't play, it just keeps loading. Tried two browsers.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-09", "email": "Sync between my laptop and phone is broken, changes are not showing up.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-10", "email": "Search returns no results even for things I know exist.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-11", "email": "The discount code isn't being applied at checkout, it says invalid.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-12", "email": "Emails from your system are going to my spam folder.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-13", "email": "The PDF I generated has overlapping text and missing images.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-14", "email": "There is a typo in the privacy policy page and one link leads to a 404.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-15", "email": "The device keeps disconnecting from wifi every few minutes since yesterday.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-16", "email": "Since this morning the API returns timeout errors for about half of my requests.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-17", "email": "I uploaded a photo but it shows up rotated and I can't fix it.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-18", "email": "My package has been stuck in transit for 10 days, tracking hasn't changed.", "intent": "bug_or_problem"}
+{"id": "bug_or_problem-19", "email": "Dark mode makes the buttons unreadable, white text on a white background.", "intent": "bug_or_problem"}
+{"id": "pricing_question-00", "email": "What is the price of your premium plan for a team of ten?", "intent": "pricing_question"}
+{"id": "pricing_question-01", "email": "Do you offer a discount for students or non-profits?", "intent": "pricing_question"}
+{"id": "pricing_question-02", "email": "Could you send me a quote for 200 units, delivered to Gdansk?", "intent": "pricing_question"}
+{"id": "pricing_question-03", "email": "What's the difference between the Basic and Pro plans, and how much more is Pro?", "intent": "pricing_question"}
+{"id": "pricing_question-04", "email": "Is there a free trial before committing to the annual subscription?", "intent": "pricing_question"}
+{"id": "pricing_question-05", "email": "How much would it cost to add five extra users to our current plan?", "intent": "pricing_question"}
+{"id": "pricing_question-06", "email": "Do you have volume pricing? We are considering ordering around 500 licenses.", "intent": "pricing_question"}
+{"id": "pricing_question-07", "email": "Are shipping costs included in the listed price?", "intent": "pricing_question"}
+{"id": "pricing_question-08", "email": "Can you tell me the rates for custom development work? Roughly, per day.", "intent": "pricing_question"}
+{"id": "pricing_question-09", "email": "I'm comparing vendors. What is your cost for the enterprise package?", "intent": "pricing_question"}
+{"id": "pricing_question-10", "email": "Is the monthly plan more expensive than paying yearly? By how much?", "intent": "pricing_question"}
+{"id": "pricing_question-11", "email": "What do you charge for installation, or is it included?", "intent": "pricing_question"}
+{"id": "pricing_question-12", "email": "Please share your price list for the 2026 catalogue.", "intent": "pricing_question"}
+{"id": "pricing_question-13", "email": "How much is express delivery to Germany?", "intent": "pricing_question"}
+{"id": "pricing_question-14", "email": "Do you give discounts for repeat customers?", "intent": "pricing_question"}
+{"id": "pricing_question-15", "email": "Could you break down what's included in the starter package and its price?", "intent": "pricing_question"}
+{"id": "pricing_question-16", "email": "Interested in your service for a small startup, what would be the cheapest option?", "intent": "pricing_question"}
+{"id": "pricing_question-17", "email": "Are there any hidden fees besides the subscription price?", "intent": "pricing_question"}
+{"id": "pricing_question-18", "email": "What would be the cost of upgrading from the standard to the premium version?", "intent": "pricing_question"}
+{"id": "pricing_question-19", "email": "Roughly how much does a typical project with you cost?", "intent": "pricing_question"}
+{"id": "cancellation_refund-00", "email": "I'd like to cancel my subscription effective immediately. Please confirm by email.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-01", "email": "Please refund my last order, the product does not meet my expectations.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-02", "email": "How do I cancel the contract? I couldn't find the option in my account settings.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-03", "email": "I want to return the shoes I bought last week. They don't fit. What is the process?", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-04", "email": "Please stop the automatic renewal. I don't want to be charged again next month.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-05", "email": "I'm requesting a refund for the course. I haven't used it and it's within 14 days.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-06", "email": "Cancel my order 55120 please, I ordered it by mistake.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-07", "email": "I was charged after I cancelled. I expect a full refund of that payment.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-08", "email": "We've decided not to continue the service. What notice period do we have?", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-09", "email": "Could you delete my account and cancel everything linked to it?", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-10", "email": "The event was cancelled so I would like my ticket money back.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-11", "email": "I want to withdraw from the purchase. Where do I send the item back?", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-12", "email": "Please terminate our agreement at the end of this quarter.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-13", "email": "I never received my order and it's been three weeks. I'd like my money back.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-14", "email": "How long does a refund take to appear on my card after returning the goods?", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-15", "email": "Please unsubscribe me and refund the unused months of my annual plan.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-16", "email": "I changed my mind about the trip. Is it possible to cancel the booking free of charge?", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-17", "email": "The service wasn't what was promised. I'd like to end the contract and get a partial refund.", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-18", "email": "I accidentally bought two copies. Can you cancel one and refund me?", "intent": "cancellation_refund"}
+{"id": "cancellation_refund-19", "email": "My free trial turned into a paid plan without warning. Please cancel and reverse the charge.", "intent": "cancellation_refund"}
+{"id": "other-00", "email": "Thank you so much for the quick help yesterday, everything works perfectly now!", "intent": "other"}
+{"id": "other-01", "email": "Just wanted to say your team was great to work with. Wishing you a happy holiday season.", "intent": "other"}
+{"id": "other-02", "email": "Congratulations on the new office! Looks fantastic in the photos.", "intent": "other"}
+{"id": "other-03", "email": "Our agency offers SEO packages that will double your traffic in 30 days. Reply for a free audit!", "intent": "other"}
+{"id": "other-04", "email": "I'm out of office until the 5th with limited access to email. For urgent matters contact my colleague.", "intent": "other"}
+{"id": "other-05", "email": "Attached are the slides from today's presentation as promised.", "intent": "other"}
+{"id": "other-06", "email": "FYI: the newsletter for November is going out on Friday, nothing needed from you.", "intent": "other"}
+{"id": "other-07", "email": "Hello, I'm a student writing a thesis on retail logistics. Would anyone be willing to answer a few questions?", "intent": "other"}
+{"id": "other-08", "email": "You have been selected to win a free gift card! Click the link to claim your prize now.", "intent": "other"}
+{"id": "other-09", "email": "Great article on your blog, I shared it with my team. Keep it up!", "intent": "other"}
+{"id": "other-10", "email": "Wrong person I think, sorry for the trouble. Please disregard my previous message.", "intent": "other"}
+{"id": "other-11", "email": "Hi, I'm a recruiter, we have an exciting opportunity that matches your profile. Interested?", "intent": "other"}
+{"id": "other-12", "email": "Please find the meeting notes below for your records. No action required.", "intent": "other"}
+{"id": "other-13", "email": "Happy birthday! Hope you have a wonderful day.", "intent": "other"}
+{"id": "other-14", "email": "Just checking in to say hi, it's been a while since we spoke.", "intent": "other"}
+{"id": "other-15", "email": "Our company is hosting a webinar on AI in logistics next month, feel free to forward to colleagues.", "intent": "other"}
+{"id": "other-16", "email": "I really liked the new design of your app, much cleaner than before.", "intent": "other"}
+{"id": "other-17", "email": "Automatic reply: your message has been received and we will process it in due course.", "intent": "other"}
+{"id": "other-18", "email": "This is a reminder that the office will be closed on Monday due to the public holiday.", "intent": "other"}
+{"id": "other-19", "email": "Hello dear friend, I have a business proposal worth millions, please reply with your bank details.", "intent": "other"}

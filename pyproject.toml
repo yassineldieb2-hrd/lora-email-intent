@@ -1,0 +1,22 @@
+[project]
+name = "lora-email-intent"
+version = "0.1.0"
+description = "LoRA fine-tuning of a small LLM to classify customer emails by intent, with a base-vs-tuned evaluation"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = []
+
+[project.optional-dependencies]
+train = ["torch>=2.1", "transformers>=4.56", "peft>=0.12", "accelerate>=0.33"]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

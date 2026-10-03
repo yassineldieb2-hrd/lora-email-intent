@@ -1,0 +1,30 @@
+{
+  "note": "Condensed from outputs/eval_results.json and outputs/lora/training_summary.json of the run documented in the README (Colab, T4 GPU, seed 42, 5 epochs).",
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "n_train": 72,
+  "n_val": 12,
+  "n_test": 36,
+  "trainable_parameters": 1081344,
+  "total_parameters": 495114112,
+  "training_steps": 45,
+  "training_runtime_seconds": 17.6,
+  "eval_loss_per_epoch": [2.2849, 0.2708, 0.2245, 0.1430, 0.1396],
+  "majority_class_baseline_accuracy": 0.1667,
+  "base_zero_shot": {"accuracy_strict": 0.3333, "accuracy_lenient": 0.3333, "macro_f1_strict": 0.2580, "invalid_rate": 0.0556,
+    "confusion_rows_gold_cols_pred": {
+      "bug_or_problem":      {"bug_or_problem": 5, "meeting_request": 1},
+      "cancellation_refund": {"invalid": 1, "meeting_request": 5},
+      "invoice_or_payment":  {"invoice_or_payment": 1, "meeting_request": 5},
+      "meeting_request":     {"meeting_request": 6},
+      "other":               {"meeting_request": 6},
+      "pricing_question":    {"invalid": 1, "meeting_request": 5}}},
+  "lora_tuned": {"accuracy_strict": 0.9444, "accuracy_lenient": 0.9444, "macro_f1_strict": 0.9429, "invalid_rate": 0.0,
+    "f1_per_class": {"meeting_request": 1.0, "invoice_or_payment": 0.80, "bug_or_problem": 0.86, "pricing_question": 1.0, "cancellation_refund": 1.0, "other": 1.0},
+    "confusion_rows_gold_cols_pred": {
+      "bug_or_problem":      {"bug_or_problem": 6},
+      "cancellation_refund": {"cancellation_refund": 6},
+      "invoice_or_payment":  {"bug_or_problem": 2, "invoice_or_payment": 4},
+      "meeting_request":     {"meeting_request": 6},
+      "other":               {"other": 6},
+      "pricing_question":    {"pricing_question": 6}}}
+}
